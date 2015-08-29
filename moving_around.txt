@@ -1,0 +1,686 @@
+# Print out history
+
+pwd
+man man
+history | less
+history |lesss
+history
+subl .
+ls /
+cd
+tree
+man
+man tree
+cd ../..
+clear
+master
+ls -l
+cd Icon?
+cd dropbox
+~
+
+ls -R
+ls -G
+ls G
+G
+ls -i
+ls - i
+man ls
+ls man ls
+ls -rt
+ls -r
+ls -lt
+ls -l -t
+ls -t
+ls
+cd /
+cd B33
+cd Desktop
+cd ~ B33
+cd ls
+cd Downloads/
+/
+cd 
+/pwd
+c
+git config --global user.name 'caryn'
+echo $path
+subl donut-shop.html
+cd donut_shop
+cd Desktop/B33/student-repos/
+sub. .
+sub .
+cd Desktop/B33/student-repos/guessing_gameclear
+Desktop/B33/student-repos
+Desktop/B33/student-repos/donut_shop
+open donut_shop
+open donut-shop
+git status
+subl README.md
+brew install wget
+ruby -e "curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install"
+ruby -e "(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew node
+brew git
+cd student-repos
+cd ~
+git
+subl home.html
+git clone https://github.com/dimhaku/Freelance.git
+subl
+ls public/html/
+ls public
+ls publc/
+ls 
+cd Freelance/
+https://github.com/dimhaku/Freelance.git
+cd De
+cd ..
+freelance/
+touch normalize.css
+create file normalize.css
+add normalize.css
+normalize.css
+open donut-shop.css
+cd donut-shop.css
+cd donut
+open donut-shop.html
+git checkout events
+git checkout
+checkout .
+git branch events
+subl donut_shop/
+touch server.js public/index.html
+mkdir public
+open Class Room Examples
+open 8-20
+Class\ Room\ Examples/
+cd Class Room Examples
+cd Desk
+git checkout model
+git pull origin master
+git checkout master
+git push origin model
+git commit -m "Add README.md"
+git add README.md 
+open README.md 
+touch README.md
+git branch
+git checkout model 
+git push origin master
+ls -la
+git checkout -b master
+git remote -v
+git remote add origin https://github.com/carynk/donut-shop.git
+git commit -m "Initial commit of Donut-Shop"
+git add .
+git heckout
+git checkout -b model
+git push origin canvas
+git commit -m "updated functionality to our kitty battle"
+ls js
+cd kitty_project/
+CD kitty_project/
+ls]
+rm -rf .git
+cd ../
+ls imgs
+subl js/kitty_project.js 
+git commit -m "Added some beginning style"
+subl index.html 
+subl css/style.css 
+subl kitty_project.js 
+cd js
+git reset --hard origin/master
+git fetch --all
+git pull origin canvas
+git checkout canvas
+l
+cd ...
+cd .git
+l -la
+cd imgs
+git commit -m "something"
+git commit origin notes -m "assignment"
+git commit notes
+cd caryn
+git commit caryn
+git commit 
+git push
+git add
+git push origin [unix-and-git-workshop]
+git push origin [master]
+git push origin [master]h
+git push -u origin master
+git push origin -u origin masterp
+git commit -m "files to test out of GIT"
+git add git_notes.txt 
+git add unix_notes.txt 
+git add.
+touch unix_notes.txt
+touch git_notes.txt
+touch ~/D/C/caryn.git_notes.txt
+cd~/D/C/caryn/git
+caryn/git_notes.ext
+echo "notes" > ~/D/C/caryn/notes.txt
+git touch unix_notes.txt
+touch ~/D/C/caryn.unix_notes.txt
+unix_notes.txt
+mkdir caryn
+git checkout notes
+git checkout -b notes
+git clone
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config
+cd~
+cd CK
+mkdir CK
+cd desktop
+vim ~/.config/fish
+git fork
+Desktop/
+des
+mkdir -p ~/.config/fish
+cd de
+cd Des
+echo ~EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+sub
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+echo $PATH
+subl ~/.config/fish/config.fish
+git config --global
+git --version
+brew install git
+brew info fish
+brew in
+brew in 
+brew info
+bre
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+git 
+brew 
+brew update
+brew doctor
+this
+WhT~
+cd GitHub
+This i
+mkdir
+what do you think of this?
+cd ~/desktop/B33/student-repos/guessing_game/
+cd ~/B33
+~/pwd
+cd ~/desktop
+git push DOM origin
+git commit -m "Added DOM elements"
+git add game.js
+git add game.html
+git add game.game.html
+git checkout DOM
+checkout DOM
+checkout branch DOM
+cd Desktop/B33/student-repos/guessing_game
+status
+git checkout dom
+cd student_repos
+cd guessing_game
+desktop
+subl.
+donut_shop
+Desktop
+checkout dom
+git branch dom
+git push origin game.html
+git checkout game.html
+git checkout constructor
+git push origin constructor
+git branch constructor
+git commit -m "Added functionality for 5 guesses."
+open game.js
+los
+git checkout -b donut_shop
+git branch donut_shop
+git commit -m "donut-shop master"
+git init donut_shop
+git init
+branch donut_shop
+git commit
+git commit donut_shop
+git add donut_shop
+mkdir donut_shop
+git add "donut_shop"
+git branch [donut_shop]
+git init [donut_shop]
+student.repos
+cd student-repo
+cd ../Desktop
+git branch html
+cd guessing_game/
+cd student-repos/
+cd Desktop/
+cd Documents/
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+git commit -m "First commit"
+git remote add origin https://github.com/carynk/guessing-game.git
+subl guessing_game2.html 
+cd constructor/
+rm darcy-game.html
+cd..
+git add cookie-game.html
+git checkout game.js
+cd game.html
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+git commit -a
+open game.js commit -m "includes DOM example on bottom"
+open game j.s
+game with DOM example.js
+cd Desktop/B33/guessing_game
+..
+.. /
+../
+li
+open darcy-game 
+open darcy-game
+cd darcy-game
+open
+darcy-game.git commit
+clone https://github.com/carynk/darcy-game.git
+https://github.com/carynk/darcy-game.git
+add darcy-game.html
+add
+open darcy-game.html 
+darcy-game.html
+darcy-game
+open game.html
+cd student-repos/guessing_game/game.html
+guessing_game
+B33
+B33/student-repos/
+student-repos
+open student-repos
+open B33
+ls-l
+open guessing_game2.html 
+ guessing_game2.html
+cd guessing_game2.html 
+cdclear
+open  game.html
+git push origin branch
+push origin branch constructor
+git checkout -b guessing_game2.html 
+git push origin branch constructor
+git commit -m"fixed constructor"
+git commit -m "change code to objects"
+git add guessing_game2.html 
+open guessing_game-1/
+cd constructor
+mv guessing_game-1 ./constructor
+git add guessing_game-1/
+git clone https://github.com/carynk/guessing_game-1.git
+constructor
+open guessing_game2.html
+mkdir constructor
+Documents
+game.html
+pwb
+git commit --amend --reset-author
+git config --global user.email caryn@carynk.com
+git config --global user.name "Carynk"
+git commit -m "fixed syntax"
+ls B33/student-reposc
+ls B33
+../cd Projects
+lscd B33
+ruben
+mkdir ruben
+ls -t | less
+ls -lrt
+ls - lrt
+ls -rt
+ls moving_around.txt 
+ls
+history > moving_around.txt
+pwd
+man man
+history | less
+history |lesss
+history
+subl .
+ls /
+cd
+tree
+man
+man tree
+cd ../..
+clear
+master
+ls -l
+cd Icon?
+cd dropbox
+~
+ls -R
+ls -G
+ls G
+G
+ls -i
+ls - i
+man ls
+ls man ls
+ls -r
+ls -lt
+ls -l -t
+ls -t
+cd /
+cd B33
+cd Desktop
+cd ~ B33
+cd ls
+cd Downloads/
+/
+cd 
+/pwd
+c
+git config --global user.name 'caryn'
+echo $path
+subl donut-shop.html
+cd donut_shop
+cd Desktop/B33/student-repos/
+sub. .
+sub .
+cd Desktop/B33/student-repos/guessing_gameclear
+Desktop/B33/student-repos
+Desktop/B33/student-repos/donut_shop
+open donut_shop
+open donut-shop
+git status
+subl README.md
+brew install wget
+ruby -e "curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install"
+ruby -e "(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew node
+brew git
+cd student-repos
+cd ~
+git
+subl home.html
+git clone https://github.com/dimhaku/Freelance.git
+subl
+ls public/html/
+ls public
+ls publc/
+ls 
+cd Freelance/
+https://github.com/dimhaku/Freelance.git
+cd De
+cd ..
+freelance/
+touch normalize.css
+create file normalize.css
+add normalize.css
+normalize.css
+open donut-shop.css
+cd donut-shop.css
+cd donut
+open donut-shop.html
+git checkout events
+git checkout
+checkout .
+git branch events
+subl donut_shop/
+touch server.js public/index.html
+mkdir public
+open Class Room Examples
+open 8-20
+Class\ Room\ Examples/
+cd Class Room Examples
+cd Desk
+git checkout model
+git pull origin master
+git checkout master
+git push origin model
+git commit -m "Add README.md"
+git add README.md 
+open README.md 
+touch README.md
+git branch
+git checkout model 
+git push origin master
+ls -la
+git checkout -b master
+git remote -v
+git remote add origin https://github.com/carynk/donut-shop.git
+git commit -m "Initial commit of Donut-Shop"
+git add .
+git heckout
+git checkout -b model
+git push origin canvas
+git commit -m "updated functionality to our kitty battle"
+ls js
+cd kitty_project/
+CD kitty_project/
+ls]
+rm -rf .git
+cd ../
+ls imgs
+subl js/kitty_project.js 
+git commit -m "Added some beginning style"
+subl index.html 
+subl css/style.css 
+subl kitty_project.js 
+cd js
+git reset --hard origin/master
+git fetch --all
+git pull origin canvas
+git checkout canvas
+l
+cd ...
+cd .git
+l -la
+cd imgs
+git commit -m "something"
+git commit origin notes -m "assignment"
+git commit notes
+cd caryn
+git commit caryn
+git commit 
+git push
+git add
+git push origin [unix-and-git-workshop]
+git push origin [master]
+git push origin [master]h
+git push -u origin master
+git push origin -u origin masterp
+git commit -m "files to test out of GIT"
+git add git_notes.txt 
+git add unix_notes.txt 
+git add.
+touch unix_notes.txt
+touch git_notes.txt
+touch ~/D/C/caryn.git_notes.txt
+cd~/D/C/caryn/git
+caryn/git_notes.ext
+echo "notes" > ~/D/C/caryn/notes.txt
+git touch unix_notes.txt
+touch ~/D/C/caryn.unix_notes.txt
+unix_notes.txt
+mkdir caryn
+git checkout notes
+git checkout -b notes
+git clone
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config
+cd~
+cd CK
+mkdir CK
+cd desktop
+vim ~/.config/fish
+git fork
+Desktop/
+des
+mkdir -p ~/.config/fish
+cd de
+cd Des
+echo ~EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+sub
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+echo $PATH
+subl ~/.config/fish/config.fish
+git config --global
+git --version
+brew install git
+brew info fish
+brew in
+brew in 
+brew info
+bre
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+git 
+brew 
+brew update
+brew doctor
+this
+WhT~
+cd GitHub
+This i
+mkdir
+what do you think of this?
+cd ~/desktop/B33/student-repos/guessing_game/
+cd ~/B33
+~/pwd
+cd ~/desktop
+git push DOM origin
+git commit -m "Added DOM elements"
+git add game.js
+git add game.html
+git add game.game.html
+git checkout DOM
+checkout DOM
+checkout branch DOM
+cd Desktop/B33/student-repos/guessing_game
+status
+git checkout dom
+cd student_repos
+cd guessing_game
+desktop
+subl.
+donut_shop
+Desktop
+checkout dom
+git branch dom
+git push origin game.html
+git checkout game.html
+git checkout constructor
+git push origin constructor
+git branch constructor
+git commit -m "Added functionality for 5 guesses."
+open game.js
+los
+git checkout -b donut_shop
+git branch donut_shop
+git commit -m "donut-shop master"
+git init donut_shop
+git init
+branch donut_shop
+git commit
+git commit donut_shop
+git add donut_shop
+mkdir donut_shop
+git add "donut_shop"
+git branch [donut_shop]
+git init [donut_shop]
+student.repos
+cd student-repo
+cd ../Desktop
+git branch html
+cd guessing_game/
+cd student-repos/
+cd Desktop/
+cd Documents/
+open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
+git commit -m "First commit"
+git remote add origin https://github.com/carynk/guessing-game.git
+subl guessing_game2.html 
+cd constructor/
+rm darcy-game.html
+cd..
+git add cookie-game.html
+git checkout game.js
+cd game.html
+/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl ; exit;
+git commit -a
+open game.js commit -m "includes DOM example on bottom"
+open game j.s
+game with DOM example.js
+cd Desktop/B33/guessing_game
+..
+.. /
+../
+li
+open darcy-game 
+open darcy-game
+cd darcy-game
+open
+darcy-game.git commit
+clone https://github.com/carynk/darcy-game.git
+https://github.com/carynk/darcy-game.git
+add darcy-game.html
+add
+open darcy-game.html 
+darcy-game.html
+darcy-game
+open game.html
+cd student-repos/guessing_game/game.html
+guessing_game
+B33
+B33/student-repos/
+student-repos
+open student-repos
+open B33
+ls-l
+open guessing_game2.html 
+ guessing_game2.html
+cd guessing_game2.html 
+cdclear
+open  game.html
+git push origin branch
+push origin branch constructor
+git checkout -b guessing_game2.html 
+git push origin branch constructor
+git commit -m"fixed constructor"
+git commit -m "change code to objects"
+git add guessing_game2.html 
+open guessing_game-1/
+cd constructor
+mv guessing_game-1 ./constructor
+git add guessing_game-1/
+git clone https://github.com/carynk/guessing_game-1.git
+constructor
+open guessing_game2.html
+mkdir constructor
+Documents
+game.html
+pwb
+git commit --amend --reset-author
+git config --global user.email caryn@carynk.com
+git config --global user.name "Carynk"
+git commit -m "fixed syntax"
+ls B33/student-reposc
+ls B33
+../cd Projects
+lscd B33
+ruben
+mkdir ruben
